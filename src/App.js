@@ -13,6 +13,11 @@ import ProjectDetails from './components/ProjectDetails';
 import Contact from './components/Contact';
 import Footer from './components/Footer';
 
+/**
+ * @author: Ahmet Can Erol
+ * Date: 17.10.2023
+ * Project Details: It's finished.
+ */
 
 const Body = styled.div`
   background-color: ${({ theme }) => theme.bg};

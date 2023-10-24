@@ -39,3 +39,8 @@ export const darkThemeTwo = {
     white: "#FFFFFF",
     black: "#000000",
 }
+
+/**@author: Ahmet CAN EROL
+ * Date: 17.10.2023
+ * Project: Portfolio Web Site
+ */

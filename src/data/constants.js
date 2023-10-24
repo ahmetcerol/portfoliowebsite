@@ -322,6 +322,19 @@ export const Bio = {
       github: "https://github.com/ahmetcerol/tardis-ReservationApplicationDemo",
       
     },
+    {
+      id: 5,
+      title: "Bağış YAP",
+      date: "Oct 2023",
+      description:
+        "I develop this site for donations. This project scope is gathering all donation organisation in one web site. And there is also persons who needs donation.",
+      image:
+        "images/sosyalsorumlulu.png",
+      tags: ["React Js", "Styled Components", "Redux"],
+      category: "web app",
+      github: "https://github.com/ahmetcerol/donationwebsite",
+      
+    },
    
   ];
   
